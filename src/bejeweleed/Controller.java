@@ -7,7 +7,7 @@ package bejeweleed;
 
 /**
  *
- * @author Bruno Pereira, João Letra e caga-te
+ * @author Bruno Pereira, João Letra 
  */
 import java.io.File;
 import java.io.FileWriter;
