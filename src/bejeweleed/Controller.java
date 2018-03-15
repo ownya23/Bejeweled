@@ -7,7 +7,7 @@ package bejeweleed;
 
 /**
  *
- * @author Bruno Pereira, João Letra e Raquel
+ * @author Bruno Pereira, João Letra e Raquel Baptista
  */
 import java.io.File;
 import java.io.FileWriter;
