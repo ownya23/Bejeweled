@@ -1,0 +1,5 @@
+﻿ola;320;
+joao;400;
+Letra;2500;
+Carlos;1500;
+ola;100;
